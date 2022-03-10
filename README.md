@@ -1,4 +1,5 @@
 ### Hello World! 👋
+<div>
 <img src="https://avatars2.githubusercontent.com/u/77104894?s=400&u=2dedb677b2690abf6874c82efe062cbb56d9e5dd&v=4" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 <p align="left"> 
   <p>Me chamo Lucas Pinheiro</p>
@@ -28,12 +29,12 @@
   <a href="https://api.whatsapp.com/send?phone=5585988188001&text=Ol%C3%A1%20Lucas%20Pinheiro!" target="_blank" alt="WhatsApp">
   <img src="https://logo-logos.com/wp-content/uploads/2016/10/WhatsApp_logo_icon.png" wight = 20px height = 20px/> +55 85 98818-8001</a><br>
 </p> <br>
-
-[![LMaiaPinheiro GitHub stats](https://github-readme-stats.vercel.app/api?username=LMaiaPinheiro)](https://github.com/LMaiaPinheiro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMaiaPinheiro&layout=compact)](https://github.com/LMaiaPinheiro/github-readme-stats)
-
-
-
+</div>
+<div align="center">
+  <a href="https://github.com/LMaiaPinheiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LMaiaPinheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMaiaPinheiro&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 <!--
