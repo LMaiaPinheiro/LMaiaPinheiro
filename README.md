@@ -34,9 +34,6 @@
 
   <a href="https://www.linkedin.com/in/lucaspinheiro" alt="Linkedin">
   <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" wight = 20px height = 20px /> Lucas Pinheiro</a><br>
-
-  <a href="https://api.whatsapp.com/send?phone=5585988188001&text=Ol%C3%A1%20Lucas%20Pinheiro!" target="_blank" alt="WhatsApp">
-  <img src="https://logo-logos.com/wp-content/uploads/2016/10/WhatsApp_logo_icon.png" wight = 20px height = 20px/> +55 85 98818-8001</a><br>
 </p> <br>
 </div>
 <div align="center">
